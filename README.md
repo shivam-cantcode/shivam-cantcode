@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hi 👋! My name is Shivam Ydav and I'm a cse student,backend dev,lifelong learner</h1>
+<h1 data-importer="text" align="left">Hi 👋! My name is Shivam Yadav and I'm a cse student,backend dev,lifelong learner</h1>
 
 ###
 

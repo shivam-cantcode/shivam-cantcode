@@ -97,13 +97,7 @@ backend-focused developer who enjoys turning ideas into working software.
 
 <!-- ======================= DEVELOPER MODE ======================= -->
 
-<h2 align="center">👾 Developer Mode: ON</h2>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shivam-cantcode&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
-
-</div>
 
 ---
 

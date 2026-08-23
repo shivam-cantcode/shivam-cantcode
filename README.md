@@ -1,8 +1,10 @@
-<!-- ======================= HEADER BANNER ======================= -->
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00D9FF&height=220&section=header&text=Shivam%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CSE%20Student%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18" width="100%"/>
+# Shivam Yadav
+
+### Backend Developer | CSE Student | Lifelong Learner
 
 </div>
 
@@ -81,56 +83,6 @@ backend-focused developer who enjoys turning ideas into working software.
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/shivam-cantcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam-cantcode&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/shivam-cantcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam-cantcode&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual best repositories.
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam-cantcode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-cantcode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivam-cantcode&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam-cantcode&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 <!-- ======================= CONTRIBUTIONS ======================= -->
 
 <h2 align="center">🎮 My Contribution Journey</h2>
@@ -176,9 +128,5 @@ backend-focused developer who enjoys turning ideas into working software.
 <div align="center">
 
 ### 💭 *"Build. Break. Learn. Repeat."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:6C63FF&height=120&section=footer" width="100%"/>
 
 </div>

@@ -14,24 +14,11 @@
 
 </div>
 
-<!-- ======================= ANIMATED CHARACTER BANNER ======================= -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="480" alt="Animated coding character"/>
-
-<br/>
-<sub>🧑‍💻 <i>currently compiling coffee into code</i></sub>
-
-</div>
-
----
-
 <!-- ======================= ABOUT ======================= -->
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Curious tech geek animation"/>
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animated workspace"/>
 
 I'm **Shivam Yadav**, a Computer Science Engineering student and
 backend-focused developer who enjoys turning ideas into working software.
@@ -161,10 +148,6 @@ backend-focused developer who enjoys turning ideas into working software.
 <h2 align="center">👾 Developer Mode: ON</h2>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="380" alt="Developer mode animation"/>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shivam-cantcode&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
 

@@ -1,46 +1,172 @@
-<h1 align="left">Hi 👋! My name is Shivam Yadav and I'm a CSE student, Backend Developer & Lifelong Learner</h1>
-
-<img align="right" height="170" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" />
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="JavaScript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="TypeScript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="React" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="51" alt="HTML5" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="51" alt="CSS3" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="51" alt="Python" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="51" alt="Appwrite" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00D9FF&height=220&section=header&text=Shivam%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CSE%20Student%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=18" width="100%"/>
+
+</div>
+
+<!-- ======================= INTRO ======================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Shivam+Yadav;Backend+Developer+%F0%9F%9A%80;CSE+Student+%F0%9F%92%BB;Building+things+that+solve+real+problems;Always+learning.+Always+building.+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+<img align="right" height="230" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+
+### 👨‍💻 About Me
+
+I'm **Shivam Yadav**, a Computer Science Engineering student and  
+backend-focused developer who enjoys turning ideas into working software.
+
+- 🔭 Currently building and experimenting with **backend systems**
+- 🌱 Learning **system design, APIs, databases & cloud technologies**
+- 💻 Interested in **Backend Development & Software Engineering**
+- 🧠 I enjoy solving problems and understanding how things work under the hood
+- 🚀 Always working on something new
+- ⚡ Fun fact: I probably debug better after midnight 🌙
+
+<br clear="right"/>
+
+</div>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css" />
+
+### 🚀 Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,appwrite" />
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,postman" />
+
+</div>
+
+---
+
+<!-- ======================= WHAT I DO ======================= -->
+
+<h2 align="center">🧠 What I Like Building</h2>
+
+<div align="center">
+
+| 🔧 Backend | 🗄️ Databases | 🌐 Web | 🧩 Problem Solving |
+|:---:|:---:|:---:|:---:|
+| REST APIs | MongoDB | React | DSA |
+| Authentication | PostgreSQL | TypeScript | Algorithms |
+| Server Logic | MySQL | HTML/CSS | Optimization |
+| API Integration | Data Modeling | Responsive UI | Clean Code |
+
+</div>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/shivam-cantcode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam-cantcode&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/shivam-cantcode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam-cantcode&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your actual best repositories.
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam-cantcode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-cantcode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
 <br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shivam-yadav-803b82301/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivam-cantcode&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
+
+---
+
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+<h2 align="center">🎮 My Contribution Journey</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-blue-three-38.vercel.app/api?username=shivam-cantcode&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-blue-three-38.vercel.app/api/top-langs/?username=shivam-cantcode&layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
+
+<img src="https://raw.githubusercontent.com/shivam-cantcode/shivam-cantcode/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" width="100%" alt="Contribution Graph"/>
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam-cantcode/shivam-cantcode/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam-cantcode/shivam-cantcode/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/shivam-cantcode/shivam-cantcode/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+---
+
+<!-- ======================= ANIMATED CHARACTER ======================= -->
+
+<h2 align="center">👾 Developer Mode: ON</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="Developer animation"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shivam-cantcode&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shivam-yadav-803b82301/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/shivam-cantcode">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭 *"Build. Break. Learn. Repeat."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:8A2BE2,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div>

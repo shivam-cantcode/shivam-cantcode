@@ -1,4 +1,4 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= HEADER BANNER ======================= -->
 
 <div align="center">
 
@@ -6,19 +6,34 @@
 
 </div>
 
-<!-- ======================= INTRO ======================= -->
+<!-- ======================= TYPING INTRO ======================= -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Shivam+Yadav;Backend+Developer+%F0%9F%9A%80;CSE+Student+%F0%9F%92%BB;Building+things+that+solve+real+problems;Always+learning.+Always+building.+%E2%9C%A8" alt="Typing SVG" />
 
-<br>
+</div>
 
-<img align="right" height="230" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
+<!-- ======================= ANIMATED CHARACTER BANNER ======================= -->
 
-### 👨‍💻 About Me
+<div align="center">
 
-I'm **Shivam Yadav**, a Computer Science Engineering student and  
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="480" alt="Animated coding character"/>
+
+<br/>
+<sub>🧑‍💻 <i>currently compiling coffee into code</i></sub>
+
+</div>
+
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Curious tech geek animation"/>
+
+I'm **Shivam Yadav**, a Computer Science Engineering student and
 backend-focused developer who enjoys turning ideas into working software.
 
 - 🔭 Currently building and experimenting with **backend systems**
@@ -29,6 +44,12 @@ backend-focused developer who enjoys turning ideas into working software.
 - ⚡ Fun fact: I probably debug better after midnight 🌙
 
 <br clear="right"/>
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Focus-Backend%20Systems-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-System%20Design-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Building](https://img.shields.io/badge/Always-Building-00D9FF?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
 
@@ -113,6 +134,14 @@ backend-focused developer who enjoys turning ideas into working software.
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivam-cantcode&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
 ---
 
 <!-- ======================= CONTRIBUTIONS ======================= -->
@@ -127,13 +156,13 @@ backend-focused developer who enjoys turning ideas into working software.
 
 ---
 
-<!-- ======================= ANIMATED CHARACTER ======================= -->
+<!-- ======================= DEVELOPER MODE ======================= -->
 
 <h2 align="center">👾 Developer Mode: ON</h2>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" alt="Developer animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="380" alt="Developer mode animation"/>
 
 <br><br>
 
